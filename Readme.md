@@ -6,7 +6,8 @@
 #### 초기 세팅 관련 히스토리
 - 220514 - Git 연동
     - [생활코딩](https://www.youtube.com/playlist?list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm) 참고
-
+    - 메시지 전송
+    
 - 220514 - Jupyter 실행안되는 이슈
     1. Python 버전이 너무 높다.
         \
