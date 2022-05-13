@@ -3,13 +3,16 @@
 - 220514 : install jupyter at VS CODE
 - 220511 : 파이썬 설치 관련 서치 및 초기 테스트
 
-#### 초기 세팅 관련 히스토리
+#### **초기 세팅 관련 히스토리**
 - 220514 - Git 연동
     - [생활코딩](https://www.youtube.com/playlist?list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm) 참고
-    - [git remote](https://memme.tistory.com/48)
+        - 변경 내용 취소도 있음.
+        - 근데 마스터 브랜치만 쓸꺼고, 변경 내용 취소도 왠만해서는 안할 것 같음.
+    - [git remote](https://memme.tistory.com/48) / [git remote2](https://ifuwanna.tistory.com/263)
         - git remote -v : 깃 원격 저장소 확인
         - git remote add [별칭] [Link] : 원격저장소 연결
         - git remote remove [별칭] : 원격저장소 제거
+        - 커밋까지만 하면, 푸시는 자동으로 지원해주는 상태
 
 - 220514 - Jupyter 실행안되는 이슈
     1. Python 버전이 너무 높다.
@@ -27,3 +30,7 @@
 - 참고 강의
     - 유튜브 검색 : 파이썬 비주얼스튜디오
     - 참고 유튜버 : 크리애플
+
+
+#### **벤치마킹**
+- [박조은님 Github](https://github.com/corazzon/KaggleStruggle)
